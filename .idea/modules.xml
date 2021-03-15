@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Fresherbatch-mar21.iml" filepath="$PROJECT_DIR$/.idea/Fresherbatch-mar21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SampleProj/SampleProj.iml" filepath="$PROJECT_DIR$/SampleProj/SampleProj.iml" />
+    </modules>
+  </component>
+</project>
